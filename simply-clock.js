@@ -1,3 +1,7 @@
+/**
+ * @author: Sergio Barriel
+ * @version: 1.0.0
+ */
 
 function SimplyClock (DOMid, separator, format){
 
