@@ -49,7 +49,15 @@ You need to pass 3 parameters:
 </div>
 ```
 
-You can add to the stylesheet, the properties you need.
+You can add to the stylesheet the properties you need by using this CSS selectors:
+
+```css
+.simple-clock { }
+.simple-clock > span.hours { }
+.simple-clock > span.minutes { }
+.simple-clock > span.seconds { }
+.simple-clock > span.separator { }
+```
 
 ### **Contact**
 You can contact me via Twitter [@s3rgiobc](https://twitter.com/s3rgiobc)
