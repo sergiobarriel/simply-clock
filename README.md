@@ -6,7 +6,7 @@
 Add the reference to **simple-clock.js** or **simply-clock.min.js** script:
 
 ```html
-<script type="text/javascript" src="window-watcher.js"></script>
+<script type="text/javascript" src="simple-clock.js"></script>
 ```
 
 Add the HTML container and includes an identifier:
