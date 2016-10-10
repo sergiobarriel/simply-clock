@@ -3,10 +3,10 @@
 
 ### **How to use**
 
-Add the reference to **simple-clock.js** or **simply-clock.min.js** script:
+Add the reference to **simply-clock.js** or **simply-clock.min.js** script:
 
 ```html
-<script type="text/javascript" src="simple-clock.js"></script>
+<script type="text/javascript" src="simply-clock.js"></script>
 ```
 
 Add the HTML container and includes an identifier:
