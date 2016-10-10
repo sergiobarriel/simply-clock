@@ -29,9 +29,9 @@ Finally, you need instace the object:
 
 You need to pass 3 parameters:
 
-  * Identifier: The Id of your HTML container.
-  * Separator: Character to separate digits.
-  * Format: Available characters are "h" for hours, "m" for minutes and "s" for seconds. Combine them as you need.
+  * **Identifier**: The Id of your HTML container.
+  * **Separator**: Character to separate digits.
+  * **Format**: Available characters are "h" for hours, "m" for minutes and "s" for seconds. Combine them as you need.
   
 ### **Style**
 
