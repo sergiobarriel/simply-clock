@@ -59,5 +59,8 @@ You can add to the stylesheet the properties you need by using this CSS selector
 .simple-clock > span.separator { }
 ```
 
+### **Version**
+1.0
+
 ### **Contact**
 You can contact me via Twitter [@s3rgiobc](https://twitter.com/s3rgiobc)
