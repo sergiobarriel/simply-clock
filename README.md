@@ -63,4 +63,4 @@ You can add to the stylesheet the properties you need by using this CSS selector
 1.0
 
 ### **Contact**
-You can contact me via Twitter [@s3rgiobc](https://twitter.com/s3rgiobc)
+You can contact me via Twitter [@sergiobarriel](https://twitter.com/sergiobarriel)
